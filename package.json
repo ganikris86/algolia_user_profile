@@ -1,0 +1,16 @@
+{
+  "name": "algolia_user_profile",
+  "version": "1.0.0",
+  "description": "Algolia - Sample User Profiles Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesh Radhakrishnan",
+  "license": "ISC",
+  "dependencies": {
+    "algoliasearch": "^4.10.3",
+    "express": "^4.17.1",
+    "instantsearch.js": "^4.25.0"
+  }
+}
