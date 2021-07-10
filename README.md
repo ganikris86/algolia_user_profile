@@ -1,8 +1,9 @@
 # Algolia - User Profile Search Dashboard
 The user profile search dashboard is created to demonstrate how a list of users could be retrieved and rendered in the UI using Algolia's product features.
+
 The user profile search is one common action we all do in various platforms like social network, professional network, within organization's internal sites and many more.
-In this dashboard, a user profile can be searched based on **first name**, **last name**, **city**, **state** and **country**.
-The order of display in the dashbaord is based on the user registered age which keeps the recently registered users at the top.
+- In this dashboard, a user profile can be searched based on **first name**, **last name**, **city**, **state** and **country**.
+- The order of display in the dashbaord is based on the user registered age which keeps the recently registered users at the top.
 
 
 ## Import Data
