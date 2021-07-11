@@ -36,3 +36,4 @@ Once the data was imported, the below steps were done,
 ## Comments to Algolia
 1. Do you recommend the app to create the objectID? When i let algolia create it, all my records got duplicated when i did the import second time after which i deleted the index, created objectId within app before importing to index.
 2. Initially my import kept failing with an error host not reachable. I'm not sure if it was my antivirus which was blocking. I then switched to an other laptop where i was able to import successfully. This is FYI.
+3. A search with 'wer' resulted in 5 results whereas a search with 'wero' resulted in 37 results. I'm not sure if it has anything to do with typo tolerance. Would like to clarify with algolia team on this behavior.
