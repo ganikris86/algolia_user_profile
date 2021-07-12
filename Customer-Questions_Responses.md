@@ -94,6 +94,7 @@ Thanks for your interest with Algolia and I can help you integrate Algolia in yo
 For me to suggest you with the right integration, i would like to know about your website, business, the data used in website and the technology you have in place.
 
 I'm sharing below a link which shows some integrations we provide,
+
 https://www.algolia.com/developers/
 
 Please let me know your available time for a call where we can understand your requirements and i can show you a demo of Algolia's offerrings after which we can advise you on the development required.
