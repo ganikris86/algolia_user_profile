@@ -48,10 +48,12 @@ A collection of objects is referred as records and here is an example of records
 **Indexing**:
 An index is the place where the data used by a search engine is stored.
 It is the equivalent for search of what a “table” is for a database. Unlike a database table, an index is optimized for search operations.
+
 For example, in an ecommerce website, the index would be a complete list of all products with a custom ranking.
 The process of building an index is referred to as indexing.
 
 We can help you with some suggestions for **custom ranking** after understanding your business metrics. We recommend our customers to set the custom ranking with their business metrics.
+
 For example, in an ecommerce website, popularity or rating is a common metric used for custom ranking.
 
 Please let me know if you would like to further discuss this over a call.
@@ -70,6 +72,7 @@ Regards, Matt
 Hi Matt,
 
 Sorry to hear about your experience with the new dashbaord design. Please be assured that we can work together to overcome this inconvenience.
+
 I understand from your problem statement that you clear and delete the indexes through the dashbaord. In case you are not aware, Algolia provides many integrations where your system can be integrated with Algolia through which clearing and deleting indexes could be achieved automatically once you clear the records at your system without needing an extra step for you to do it from the dashboard.
 
 Please let me know if you would like to explore this option in case you haven't.
